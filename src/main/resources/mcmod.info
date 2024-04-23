@@ -1,0 +1,16 @@
+[
+{
+  "modid": "rollofthedice",
+  "name": "Roll of the Dice",
+  "description": "Adds many features involving dice and chance.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Insomnia_Wins"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
