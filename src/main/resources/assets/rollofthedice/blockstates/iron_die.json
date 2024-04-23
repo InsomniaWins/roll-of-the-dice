@@ -1,0 +1,45 @@
+{
+	"variants": {
+		"ready_to_roll=true,top_number=0": {
+			"model":"rollofthedice:iron_die_1"
+		},
+		"ready_to_roll=true,top_number=1": {
+			"model":"rollofthedice:iron_die_2"
+		},
+		"ready_to_roll=true,top_number=2": {
+			"model":"rollofthedice:iron_die_3"
+		},
+		"ready_to_roll=true,top_number=3": {
+			"model":"rollofthedice:iron_die_4"
+		},
+		"ready_to_roll=true,top_number=4": {
+			"model":"rollofthedice:iron_die_5"
+		},
+		"ready_to_roll=true,top_number=5": {
+			"model":"rollofthedice:iron_die_6"
+		},
+
+		"ready_to_roll=false,top_number=0": {
+			"model":"rollofthedice:iron_die_rolling"
+		},
+		"ready_to_roll=false,top_number=1": {
+			"model":"rollofthedice:iron_die_rolling"
+		},
+		"ready_to_roll=false,top_number=2": {
+			"model":"rollofthedice:iron_die_rolling"
+		},
+		"ready_to_roll=false,top_number=3": {
+			"model":"rollofthedice:iron_die_rolling"
+		},
+		"ready_to_roll=false,top_number=4": {
+			"model":"rollofthedice:iron_die_rolling"
+		},
+		"ready_to_roll=false,top_number=5": {
+			"model":"rollofthedice:iron_die_rolling"
+		},
+
+		"inventory": {
+			"model": "rollofthedice:iron_die_1"
+		}
+	}
+}

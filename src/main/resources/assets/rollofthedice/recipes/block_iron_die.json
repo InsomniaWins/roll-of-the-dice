@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "AWA",
+    "ASA",
+    "AWA"
+  ],
+  "key": {
+    "S": {
+      "item": "wrapandrun2:wooden_die",
+      "data": 0
+    },
+    "A": {
+      "item": "minecraft:iron_ingot",
+      "data": 0
+    },
+    "W": {
+      "item": "minecraft:redstone",
+      "data": 0
+    }
+  },
+  "result": {
+    "item": "rollofthedice:iron_die",
+    "count": 1,
+    "data": 0
+  }
+}
